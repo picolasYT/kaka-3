@@ -85,10 +85,15 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
  </p>
 
 ## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
-<a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
+<a href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Wilsmac"/></a>
   
-`❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
-### `mis proyectos`
-<a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
-<a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD-v1&theme=merko)</a>
+`ᰔᩚ 𝙍𝙪𝙗𝙮 𝙚𝙨 𝙢𝙞 𝙥𝙖𝙨𝙞𝙤𝙣︎`  
+### `𓆩✨ 𝙈𝙞𝙨 𝙋𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨 ✨𓆪`
 
+<a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dioneibi-rip&repo=Ruby-Hoshino-Bot&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Dioneibi-rip/Kanna-Kamui-Bot-MD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dioneibi-rip&repo=Kanna-Kamui-Bot-MD&theme=tokyonight" />
+</a>
