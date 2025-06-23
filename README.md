@@ -1,4 +1,4 @@
-<h1 align="center">i𝐈𝐒 𝙋𝙊𝙒𝙀𝙀𝙀𝙀𝙀𝙍!! ٩( 💢•̀ з•́)و</h1>
+<h1 align="center">𝐈𝐒 𝙋𝙊𝙒𝙀𝙀𝙀𝙀𝙀𝙍!! ٩( 💢•̀ з•́)و</h1>
 
 
 
@@ -72,6 +72,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 <a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+</a>
+<a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
+  <img src="https://files.catbox.moe/tvvnmn.jpeg" width="130" height="130" alt="𝐍𝐚𝐫𝐮𝐭𝐨" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
 <a href="https://myanimelist.net/anime/47917/Bocchi_the_Rock" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/b2iw3c.jpeg" width="130" height="130" alt="𝐁𝐨𝐜𝐜𝐡𝐢 𝐭𝐡𝐞 𝐫𝐨𝐜𝐤" style="border-radius: 50%; border: 3px solid #ff66cc;" />
