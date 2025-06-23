@@ -86,12 +86,12 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 
 
- ### `APRENDIENDO`: 
+ ### `📚 APRENDIENDO`
 
-| Linux | Kali |
-|----------|----------|
-| <a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |<a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |
- </p>
+| Lenguaje | Icono |
+|----------|-------|
+| JavaScript | <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="49" height="49"/></a> |
+
 
 ## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
 <a href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Wilsmac"/></a>
