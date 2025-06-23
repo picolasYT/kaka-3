@@ -32,12 +32,8 @@ href="https://api.whatsapp.com/send/?phone=8294868853&text=𝙝𝙤𝙡𝙖,%20�
 </p>
 
  
-[![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
-<img src="https://img.shields.io/badge/mi-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dioneibi-rip}/count.svg" alt="Dioneibi-rip :: Visitor's Count" /></p>
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
