@@ -28,13 +28,14 @@ href="https://api.whatsapp.com/send/?phone=8294868853&text=𝙝𝙤𝙡𝙖,%20�
   </a>
 </p>
 
-### 💫 I'am Dioneibi-rip }= OFC {
+### 💫 I'am Dioneibi-rip 「OFC」🌸
 
 <p align="center">
-  <a href="https://github.com/Dioneibi-rip">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&lines=🌸+Desarrollador+de+Bots+WhatsApp;⚔️+Otaku+Fullstack+Dev;🐉+Creador+de+Ruby+Hoshino+Bot;🧠+Amo+el+código+y+los+animes" height="100px" />
+  <a href="https://github.com/Dioneibi-rip" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FF66CC&center=true&vCenter=true&multiline=true&width=600&lines=🌸+Desarrollador+de+Bots+WhatsApp;⚔️+Otaku+Fullstack+Dev+con+hambre+de+poder;+🐉+Creador+de+Ruby+Hoshino+Bot💗;🧠+Amo+el+C%C3%B3digo+y+los+Animes" height="100px" />
   </a>
 </p>
+
 
  
 
