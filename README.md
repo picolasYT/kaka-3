@@ -68,12 +68,13 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
            <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
                  <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
    
-### ✭ `𝗔𝗻𝗶𝗺𝗲𝘀 𝗾𝘂𝗲 𝗵𝗲 𝘃𝗶𝘀𝘁𝗼 𝘆 𝗺𝗲 𝗴𝘂𝘀𝘁𝗮𝗻` 🌟
+### ✭ `𝗔𝗻𝗶𝗺𝗲𝘀 𝗾𝘂𝗲 𝗵𝗲 𝘃𝗶𝘀𝘁𝗼 𝘆 𝗺𝗲 𝗴𝘂𝘀𝘁𝗮𝗻 ` 🌟
 
-<div align="center">
-  <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗯𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;"/>
-  <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="Legna-chan" style="border-radius: 50%; border: 3px solid #66ccff;"/>
-</div>
+<p align="center">
+  <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+  <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="𝗟𝗲𝗴𝗻𝗮-𝗰𝗵𝗮𝗻" style="border-radius: 50%; border: 3px solid #66ccff;" />
+</p>
+
 
 
  ### `APRENDIENDO`: 
