@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <img 
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
 
-### ✨ 𝙈𝙮 𝙊𝙩𝙖𝙠𝙪 𝙎𝙩𝙖𝙩𝙨
+### ✨ 𝙈𝙮 𝙎𝙩𝙖𝙩𝙨
 
 <p align="center">
   <a href="https://github.com/Dioneibi-rip">
@@ -68,10 +68,14 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
            <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
                  <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
    
-### 💻 `Software y herramientas` 🌟
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="24"></a>
- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24"></a>
-<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24"></a>
+### ✭ `𝗔𝗻𝗶𝗺𝗲𝘀 𝗾𝘂𝗲 𝗵𝗲 𝘃𝗶𝘀𝘁𝗼 𝘆 𝗺𝗲 𝗴𝘂𝘀𝘁𝗮𝗻 ` 🌟
+
+\<div align="center"\>
+\<img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗯𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid \#ff66cc;"/\>
+\</a\>
+\<img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="Legna-chan" style="border-radius: 50%; border: 3px solid \#66ccff;"/\>
+\</a\>
+\</div\>
 
  ### `APRENDIENDO`: 
 
@@ -88,8 +92,3 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
 <a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD-v1&theme=merko)</a>
 
-### `colaboró en:`
-
->nigúno xd, nadie quiere colaborar conmigo 🥹
- 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
