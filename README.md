@@ -73,7 +73,10 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
-<a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
+<a href="https://myanimelist.net/anime/1735/Naruto__Shippuuden" style="display:inline-block; text-decoration: none;">
+  <img src="https://files.catbox.moe/qcyw9h.png" width="130" height="130" alt="𝐍𝐚𝐫𝐮𝐭𝐨 𝐬𝐡𝐢𝐩𝐩𝐮𝐝𝐞𝐧" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+</a>
+<a href="https://myanimelist.net/anime/20/Naruto" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/tvvnmn.jpeg" width="130" height="130" alt="𝐍𝐚𝐫𝐮𝐭𝐨" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
 <a href="https://myanimelist.net/anime/47917/Bocchi_the_Rock" style="display:inline-block; text-decoration: none;">
