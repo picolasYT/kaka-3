@@ -74,8 +74,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
+<a href="https://myanimelist.net/anime/57334/Dandadan" style="display:inline-block; text-decoration: none;">
+  <img src="https://files.catbox.moe/5e5pkm.jpg" width="130" height="130" alt="𝐃𝐚𝐧𝐝𝐚𝐝𝐚𝐧" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+</a>
 <a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba" style="display:inline-block; text-decoration: none;">
-  <img src= "https://files.catbox.moe/q4gme4.jpg" width="130" height="130" alt="𝐊𝐢𝐦𝐞𝐭𝐬𝐮 𝐧𝐨 𝐘𝐚𝐢𝐛𝐚" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+  <img src="https://files.catbox.moe/f4mokq.jpg" width="130" height="130" alt="𝐊𝐢𝐦𝐞𝐭𝐬𝐮 𝐧𝐨 𝐘𝐚𝐢𝐛𝐚" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
 <a href="https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/v5mbyq.jpeg" width="130" height="130" alt="𝐄𝐥 𝐢𝐧𝐜𝐫𝐞𝐢́𝐛𝐥𝐞 𝐜𝐚𝐬𝐭𝐢𝐥𝐥𝐨 𝐯𝐚𝐠𝐚𝐛𝐮𝐧𝐝𝐨" style="border-radius: 50%; border: 3px solid #ff66cc;" />
