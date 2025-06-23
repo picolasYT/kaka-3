@@ -73,6 +73,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://myanimelist.net/anime/30694/Dragon_Ball_Super?q=Dragon%20ball&cat=anime" style="display:inline-block; text-decoration: none;">
   <img src="https://files.catbox.moe/va8ygl.jpg" width="130" height="130" alt="⏤͟͟͞͞𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
+<a href="https://myanimelist.net/anime/47917/Bocchi_the_Rock" style="display:inline-block; text-decoration: none;">
+  <img src="https://files.catbox.moe/b2iw3c.jpeg" width="130" height="130" alt="𝐁𝐨𝐜𝐜𝐡𝐢 𝐭𝐡𝐞 𝐫𝐨𝐜𝐤" style="border-radius: 50%; border: 3px solid #ff66cc;" />
+</a>
 <a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen?q=jujutsu%20kaisen&cat=anime" style="display:inline-block; margin-right: 10px; text-decoration: none;">
   <img src="https://files.catbox.moe/k4sni2.png" width="130" height="130" alt="𝐃𝐫𝐚𝐠𝐨𝐧 𝐛𝐚𝐥𝐥 𝐬𝐮𝐩𝐞𝐫" style="border-radius: 50%; border: 3px solid #66ccff;" />
 </a>
