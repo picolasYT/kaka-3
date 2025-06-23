@@ -56,6 +56,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 > <h1 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
 <div align="left"> 
+## `𝐍𝐢𝐧𝐠𝐮𝐧𝐨𝐬 𝐱𝐝`
+
+
 
    
 ### ✭ `𝗔𝗻𝗶𝗺𝗲𝘀 𝗾𝘂𝗲 𝗵𝗲 𝘃𝗶𝘀𝘁𝗼 𝘆 𝗺𝗲 𝗴𝘂𝘀𝘁𝗮𝗻` 🌟
@@ -76,7 +79,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
   <img src="https://files.catbox.moe/b2iw3c.jpeg" width="130" height="130" alt="𝐁𝐨𝐜𝐜𝐡𝐢 𝐭𝐡𝐞 𝐫𝐨𝐜𝐤" style="border-radius: 50%; border: 3px solid #ff66cc;" />
 </a>
 <a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen?q=jujutsu%20kaisen&cat=anime" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-  <img src="https://files.catbox.moe/k4sni2.png" width="130" height="130" alt="𝐃𝐫𝐚𝐠𝐨𝐧 𝐛𝐚𝐥𝐥 𝐬𝐮𝐩𝐞𝐫" style="border-radius: 50%; border: 3px solid #66ccff;" />
+  <img src="https://files.catbox.moe/k4sni2.png" width="130" height="130" alt="𝐉𝐮𝐣𝐮𝐭𝐬𝐮 𝐤𝐚𝐢𝐬𝐞𝐧" style="border-radius: 50%; border: 3px solid #66ccff;" />
 </a>
 
 
