@@ -13,6 +13,11 @@
 ```ts
 import { eres } from 'ga1'
 ```
+## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
+<a href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Wilsmac"/></a>
+  
+`❦(๑¯◡¯๑) 𝐑𝐮𝐛𝐲 𝐞𝐬 𝐦𝐢 𝐩𝐚𝐬𝐢𝐨𝐧︎`  
+
 <a
 href="https://api.whatsapp.com/send/?phone=8294868853&text=𝙝𝙤𝙡𝙖,%20𝙗𝙪𝙚𝙣𝙖𝙨%20𝙩𝙖𝙧𝙙𝙚𝙨&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
 <a 
@@ -93,10 +98,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 | JavaScript | <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="49" height="49"/></a> |
 
 
-## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
-<a href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Wilsmac"/></a>
-  
-`❦(๑¯◡¯๑) 𝐑𝐮𝐛𝐲 𝐞𝐬 𝐦𝐢 𝐩𝐚𝐬𝐢𝐨𝐧︎`  
 ### `𓆩✨ 𝙈𝙞𝙨 𝙋𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨 ✨𓆪`
 
 <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot">
