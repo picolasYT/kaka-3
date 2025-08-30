@@ -18,7 +18,7 @@ import { eres } from 'ga1'
 `❦(๑¯◡¯๑) ☆ {ℙ𝕚𝕔𝕠𝕝𝕒𝕤𝔸𝕀𝐮𝐥𝐭𝐫𝐚-𝐌𝐃} ☆ 𝐞𝐬 𝐦𝐢 𝐩𝐚𝐬𝐢𝐨𝐧︎`  
 
 <a
-href="https://api.whatsapp.com/send/?phone=8294868853&text=𝙝𝙤𝙡𝙖,%20𝙗𝙪𝙚𝙣𝙖𝙨%20𝙩𝙖𝙧𝙙𝙚𝙨&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
+href="https://api.whatsapp.com/send/?phone=5492994587598&text=𝙝𝙤𝙡𝙖,%20𝙗𝙪𝙚𝙣𝙖𝙨%20𝙩𝙖𝙧𝙙𝙚𝙨&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
 
 
 <p align="center">
